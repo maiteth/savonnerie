@@ -1,0 +1,8 @@
+/node_modules
+/cfg/environments.js
+/dist
+/dist.zip
+/app/wp-config.php
+/app/.htaccess
+/app/wp-content/debug.log
+/sql/remote-db.sql
